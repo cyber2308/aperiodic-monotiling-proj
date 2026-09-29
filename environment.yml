@@ -1,0 +1,12 @@
+name: aperiodic-monotiling
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - scipy
+  - matplotlib
+  - networkx
+  - shapely
+  - tqdm
+  - pip
